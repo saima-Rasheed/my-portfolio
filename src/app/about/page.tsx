@@ -9,7 +9,7 @@ const About = () => {
     <div className="bg-black text-orange-300 min-h-screen flex flex-col items-center justify-center py-10 px-5">
       <h1 className="text-4xl font-semibold text-orange-300 mb-5">About Me</h1>
       <p className="text-lg text-orange-300 mb-5 max-w-3xl text-center">
-        Hello, I am Saima Rasheed, a passionate web developer. I specialize in creating elegant and efficient websites using modern technologies like Next.js, React, and Tailwind CSS. With a strong focus on user experience and design, I aim to craft solutions that are both functional and beautiful.
+        Hello I am Saima Rasheed, a passionate web developer. I specialize in creating elegant and efficient websites using modern technologies like Next.js, React, and Tailwind CSS. With a strong focus on user experience and design, I aim to craft solutions that are both functional and beautiful.
       </p>
       
       <div className="flex flex-col items-center gap-3 mb-5">

@@ -6,7 +6,7 @@ const Contact = () => {
     <div className="bg-black text-orange-300 min-h-screen flex flex-col items-center justify-center py-10 px-5">
       <h1 className="text-4xl font-semibold text-golden mb-5">Contact Me</h1>
       <p className="text-lg text-orange-300 mb-8 max-w-2xl text-center">
-        I would love to hear from you! Whether you have a question, want to collaborate, or just want to say hello, feel free to reach out. You can contact me via email or phone, or simply fill out the form below.
+        I would love to hear from you Whether you have a question, want to collaborate, or just want to say hello, feel free to reach out. You can contact me via email or phone, or simply fill out the form below.
       </p>
 
       <div className="flex flex-col items-center gap-5 mb-10">
